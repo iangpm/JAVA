@@ -5,7 +5,7 @@ public class Main {
     public static void main (String[] args){
         Scanner scanner = new Scanner(System.in);
 
-        Pessoa p = new Pessoa();
+        Pessoa1 p = new Pessoa1();
 
         System.out.println("Informe sua matrícula: ");
         p.matricula = scanner.nextInt();
