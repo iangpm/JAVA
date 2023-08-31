@@ -1,4 +1,4 @@
-public class Medias {
+public class Medias2 {
     String nome;
     Double nota1;
     Double nota2;
