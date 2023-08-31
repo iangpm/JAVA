@@ -4,7 +4,7 @@ public class Main2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        Medias m = new Medias();
+        Medias2 m = new Medias2();
 
         System.out.println("Digite o nome do aluno: ");
         m.nome = scanner.nextLine();
