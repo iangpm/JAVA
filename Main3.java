@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main3 {
     public static void main(String[] args) {
 
-        Calculadora c = new Calculadora();
+        Calculadora3 c = new Calculadora3();
         Scanner scanner = new Scanner(System.in);
 
         int n1, n2;
